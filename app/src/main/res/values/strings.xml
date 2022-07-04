@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Organizze Clone</string>
+    <string name="slide_organize_title">Organised your day whatever \n you where</string>
+    <string name="slide_organize_subtitle">It\'s simple, and you can work in your Hobies</string>
+
+    <string name="slide_stressed_title">Don\'t stressed We gonna help you</string>
+    <string name="slide_stressed_subtitle">Sit down, It\'s Yoga TIME!</string>
+
+    <string name="slide_notify_title">Organize all your movement</string>
+    <string name="slide_notify_subtitle">Get notify whatever movement and remind you to pay your accounts</string>
+
+    <string name="slide_more_money_title">Take control of the money, and make your account positive</string>
+    <string name="slide_more_money_subtitle">Imagine… last day of the month, and you get a \"EXTRA\" money, just because you\'ve control the money</string>
+    <string name="slide_signup_login_title">Create a free account</string>
+    <string name="slide_signup_login_subtitle">Join over halt million people, and take care of your money</string>
 </resources>

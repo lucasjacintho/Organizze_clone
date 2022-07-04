@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:adjustViewBounds="false"
+        android:src="@drawable/money_bag" />
+
+    <TextView
+        android:id="@+id/txtTituloSlide1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/black"
+        android:text="@string/slide_more_money_title" />
+
+    <TextView
+        android:id="@+id/txtSubTituloSlide1"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/black"
+        android:text="@string/slide_more_money_subtitle" />
+
+
+</LinearLayout>
